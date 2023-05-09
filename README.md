@@ -5,7 +5,7 @@ Este fue un proyecto de clonación de la interfaz de Google con HTML5 y CSS3.
 ## ÍNDICE 
 
 * [1. Intro](https://github.com/Anayelisss/clon_google/blob/main/README.md#1-intro)👩‍💻 
-* [2. Qué construi](#)👩‍🔧
+* [2. Qué construi](https://github.com/Anayelisss/clon_google/blob/main/README.md#2-que-construi)👩‍🔧
 * [3. Objetivo del proyecto](#)🏸
 
 **
